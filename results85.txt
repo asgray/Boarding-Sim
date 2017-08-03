@@ -1,0 +1,11 @@
+
+Ordered General Boarding
+Name       Type  Row  Key
+--------------------------
+Boarding took 0.00 minutes.
+
+Random General Boarding
+Name       Type  Row  Key
+--------------------------
+Boarding took 0.00 minutes.
+
